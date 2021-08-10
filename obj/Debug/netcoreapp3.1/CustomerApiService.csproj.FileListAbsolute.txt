@@ -1,0 +1,186 @@
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\appsettings.json
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\CustomerApiService.exe
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\obj\Debug\netcoreapp3.1\CustomerApiService.csprojAssemblyReference.cache
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\obj\Debug\netcoreapp3.1\CustomerApiService.AssemblyInfoInputs.cache
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\obj\Debug\netcoreapp3.1\CustomerApiService.AssemblyInfo.cs
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\obj\Debug\netcoreapp3.1\CustomerApiService.RazorTargetAssemblyInfo.cache
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\obj\Debug\netcoreapp3.1\staticwebassets\CustomerApiService.StaticWebAssets.Manifest.cache
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\obj\Debug\netcoreapp3.1\staticwebassets\CustomerApiService.StaticWebAssets.xml
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\CustomerApiService.deps.json
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\CustomerApiService.runtimeconfig.json
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\CustomerApiService.runtimeconfig.dev.json
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\CustomerApiService.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\CustomerApiService.pdb
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\obj\Debug\netcoreapp3.1\CustomerApiService.MvcApplicationPartsAssemblyInfo.cache
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\obj\Debug\netcoreapp3.1\CustomerApiService.csproj.CopyComplete
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\obj\Debug\netcoreapp3.1\CustomerApiService.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\CustomerApiService\CustomerApiService\obj\Debug\netcoreapp3.1\CustomerApiService.pdb
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\CustomerApiService.exe
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\CustomerApiService.deps.json
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\CustomerApiService.runtimeconfig.json
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\CustomerApiService.runtimeconfig.dev.json
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\CustomerApiService.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\CustomerApiService.pdb
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\obj\Debug\netcoreapp3.1\CustomerApiService.csproj.AssemblyReference.cache
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\obj\Debug\netcoreapp3.1\CustomerApiService.AssemblyInfoInputs.cache
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\obj\Debug\netcoreapp3.1\CustomerApiService.AssemblyInfo.cs
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\obj\Debug\netcoreapp3.1\CustomerApiService.csproj.CoreCompileInputs.cache
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\obj\Debug\netcoreapp3.1\CustomerApiService.MvcApplicationPartsAssemblyInfo.cache
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\obj\Debug\netcoreapp3.1\staticwebassets\CustomerApiService.StaticWebAssets.Manifest.cache
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\obj\Debug\netcoreapp3.1\staticwebassets\CustomerApiService.StaticWebAssets.xml
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\obj\Debug\netcoreapp3.1\scopedcss\bundle\CustomerApiService.styles.css
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\obj\Debug\netcoreapp3.1\CustomerApiService.RazorTargetAssemblyInfo.cache
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\obj\Debug\netcoreapp3.1\CustomerApiService.csproj.CopyComplete
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\obj\Debug\netcoreapp3.1\CustomerApiService.dll
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\obj\Debug\netcoreapp3.1\CustomerApiService.pdb
+D:\Cognizant Materials\Hosting bundle\CustomerGitApiService-master\CustomerApiService\obj\Debug\netcoreapp3.1\CustomerApiService.genruntimeconfig.cache
